@@ -3,7 +3,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 1,
   "fields": {
-    "updated": "2024-04-23T14:36:59.144Z",
+    "updated": "2024-04-23T20:32:23.032Z",
     "created": "2024-04-22T20:20:58.838Z"
   }
 },
@@ -19,7 +19,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 3,
   "fields": {
-    "updated": "2024-04-23T16:45:05.434Z",
+    "updated": "2024-04-23T20:29:15.614Z",
     "created": "2024-04-22T20:22:09.169Z"
   }
 },
@@ -27,7 +27,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 4,
   "fields": {
-    "updated": "2024-04-23T14:48:02.020Z",
+    "updated": "2024-04-23T20:33:37.282Z",
     "created": "2024-04-22T20:22:15.215Z"
   }
 },
@@ -35,7 +35,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 5,
   "fields": {
-    "updated": "2024-04-23T14:50:18.276Z",
+    "updated": "2024-04-23T20:34:25.140Z",
     "created": "2024-04-22T20:22:22.864Z"
   }
 },
@@ -51,7 +51,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 7,
   "fields": {
-    "updated": "2024-04-23T13:36:01.248Z",
+    "updated": "2024-04-23T20:35:07.258Z",
     "created": "2024-04-22T20:22:34.359Z"
   }
 },
@@ -67,7 +67,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 9,
   "fields": {
-    "updated": "2024-04-23T16:46:15.591Z",
+    "updated": "2024-04-23T20:39:12.513Z",
     "created": "2024-04-22T20:22:48.335Z"
   }
 },
@@ -75,7 +75,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 10,
   "fields": {
-    "updated": "2024-04-23T16:47:48.472Z",
+    "updated": "2024-04-23T20:38:56.904Z",
     "created": "2024-04-22T20:22:56.330Z"
   }
 },
@@ -83,7 +83,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 11,
   "fields": {
-    "updated": "2024-04-23T14:35:56.796Z",
+    "updated": "2024-04-23T20:38:48.199Z",
     "created": "2024-04-22T20:23:07.799Z"
   }
 },
@@ -91,7 +91,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 12,
   "fields": {
-    "updated": "2024-04-23T13:51:13.617Z",
+    "updated": "2024-04-23T20:38:41.912Z",
     "created": "2024-04-22T20:23:12.711Z"
   }
 },
@@ -107,7 +107,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 14,
   "fields": {
-    "updated": "2024-04-23T13:56:09.663Z",
+    "updated": "2024-04-23T20:38:10.904Z",
     "created": "2024-04-22T20:23:24.606Z"
   }
 },
@@ -115,7 +115,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 15,
   "fields": {
-    "updated": "2024-04-23T16:51:35.496Z",
+    "updated": "2024-04-23T20:37:54.948Z",
     "created": "2024-04-22T20:23:30.246Z"
   }
 },
@@ -123,7 +123,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 16,
   "fields": {
-    "updated": "2024-04-23T14:09:51.419Z",
+    "updated": "2024-04-23T20:37:43.694Z",
     "created": "2024-04-22T20:23:34.926Z"
   }
 },
@@ -131,7 +131,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 17,
   "fields": {
-    "updated": "2024-04-23T14:35:24.462Z",
+    "updated": "2024-04-23T20:37:31.185Z",
     "created": "2024-04-22T20:23:40.406Z"
   }
 },
@@ -139,7 +139,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 18,
   "fields": {
-    "updated": "2024-04-23T16:53:45.571Z",
+    "updated": "2024-04-23T20:37:10.736Z",
     "created": "2024-04-22T20:23:55.005Z"
   }
 },
@@ -195,7 +195,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 25,
   "fields": {
-    "updated": "2024-04-22T21:58:27.750Z",
+    "updated": "2024-04-23T20:36:37.628Z",
     "created": "2024-04-22T20:24:34.815Z"
   }
 },
@@ -203,7 +203,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 26,
   "fields": {
-    "updated": "2024-04-22T20:24:41.456Z",
+    "updated": "2024-04-23T20:36:26.224Z",
     "created": "2024-04-22T20:24:41.456Z"
   }
 },
@@ -243,7 +243,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 31,
   "fields": {
-    "updated": "2024-04-22T20:25:11.536Z",
+    "updated": "2024-04-23T20:36:12.032Z",
     "created": "2024-04-22T20:25:11.536Z"
   }
 },
@@ -387,7 +387,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 49,
   "fields": {
-    "updated": "2024-04-23T14:08:49.824Z",
+    "updated": "2024-04-23T20:35:51.993Z",
     "created": "2024-04-23T14:08:49.824Z"
   }
 },
@@ -427,7 +427,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 54,
   "fields": {
-    "updated": "2024-04-23T15:51:27.718Z",
+    "updated": "2024-04-23T20:40:03.215Z",
     "created": "2024-04-23T15:21:18.934Z"
   }
 },
@@ -483,7 +483,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 61,
   "fields": {
-    "updated": "2024-04-23T16:31:42.736Z",
+    "updated": "2024-04-23T20:44:05.884Z",
     "created": "2024-04-23T15:47:54.012Z"
   }
 },
@@ -507,7 +507,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 64,
   "fields": {
-    "updated": "2024-04-23T15:56:40.834Z",
+    "updated": "2024-04-23T17:46:45.084Z",
     "created": "2024-04-23T15:56:40.834Z"
   }
 },
@@ -515,7 +515,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 65,
   "fields": {
-    "updated": "2024-04-23T16:03:41.690Z",
+    "updated": "2024-04-23T20:42:14.757Z",
     "created": "2024-04-23T16:00:23.236Z"
   }
 },
@@ -523,7 +523,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 66,
   "fields": {
-    "updated": "2024-04-23T16:05:07.404Z",
+    "updated": "2024-04-23T20:41:57.205Z",
     "created": "2024-04-23T16:05:07.404Z"
   }
 },
@@ -539,7 +539,7 @@
   "model": "atiflow.atiflowmodel",
   "pk": 68,
   "fields": {
-    "updated": "2024-04-23T16:17:32.632Z",
+    "updated": "2024-04-23T20:45:52.754Z",
     "created": "2024-04-23T16:17:32.632Z"
   }
 },
@@ -547,8 +547,16 @@
   "model": "atiflow.atiflowmodel",
   "pk": 69,
   "fields": {
-    "updated": "2024-04-23T16:25:34.821Z",
+    "updated": "2024-04-23T20:41:19.478Z",
     "created": "2024-04-23T16:25:34.821Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 70,
+  "fields": {
+    "updated": "2024-04-23T20:44:57.136Z",
+    "created": "2024-04-23T18:45:28.975Z"
   }
 },
 {
@@ -739,7 +747,7 @@
   "pk": 2,
   "fields": {
     "nombre": "HAPE",
-    "descripcion": "Soporte completo para el proceso de titulaci\u00f3n (E y F).Memoria Sebasti\u00e1n Aguilera / Cecilia B. 2022.1F, hay que recopilar m\u00e1s info al respecto.\r\nactualmente, est\u00e1 en test, pero no se tiene la URL",
+    "descripcion": "Soporte completo para el proceso de titulación (E y F).Memoria Sebastián Aguilera / Cecilia B. 2022.1F, hay que recopilar más info al respecto.\r\nactualmente, está en test, pero no se tiene la URL",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/hape_dcc",
     "url_test": null,
     "url_produccion": null,
@@ -757,7 +765,7 @@
   "pk": 3,
   "fields": {
     "nombre": "Recordatorio de Eventos",
-    "descripcion": "Crear eventos y enviar recordatorios por correo. Desarrollado en curso de Ingenier�a de Software 2",
+    "descripcion": "Crear eventos y enviar recordatorios por correo. Desarrollado en curso de Ingeniería de Software 2",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/recordatorio_eventos",
     "url_test": "https://test.dcc.uchile.cl/recordatorio-eventos",
     "url_produccion": null,
@@ -774,8 +782,8 @@
   "model": "atiflow.sistema",
   "pk": 4,
   "fields": {
-    "nombre": "Conformaci�n de equipos",
-    "descripcion": "Permite la confecci�n de equipos para los cursos de Ingenier�a de Software 1 y 2.",
+    "nombre": "Conformación de equipos",
+    "descripcion": "Permite la confección de equipos para los cursos de Ingeniería de Software 1 y 2.",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/conformacion-equipos",
     "url_test": null,
     "url_produccion": "https://equipos.dcc.uchile.cl",
@@ -797,7 +805,7 @@
   "pk": 5,
   "fields": {
     "nombre": "Mainreq",
-    "descripcion": "Gesti�n de proyectos de desarrollo de software, utilizado en el curso de Ingenier�a de Software 2",
+    "descripcion": "Gestión de proyectos de desarrollo de software, utilizado en el curso de Ingeniería de Software 2",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/mainreq",
     "url_test": null,
     "url_produccion": "https://mainreq.dcc.uchile.cl/",
@@ -839,7 +847,7 @@
   "pk": 7,
   "fields": {
     "nombre": "Coevaluaciones",
-    "descripcion": "Realizaci�n de coevaluaciones entre estudiantes de distintos cursos de pregrado.",
+    "descripcion": "Realización de coevaluaciones entre estudiantes de distintos cursos de pregrado.",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/coevaluaciones",
     "url_test": null,
     "url_produccion": null,
@@ -859,7 +867,7 @@
   "pk": 8,
   "fields": {
     "nombre": "U-Fichas",
-    "descripcion": "Genera fichas acad\u00e9micas para cada uno de los docentes integrantes de los programas de postgrado para su acreditaci\u00f3n, cada ficha incluye: informaci\u00f3n personal, tesis dirigidas (internas y externas), publicaciones, proyectos y asesor\u00edas en las que haya participado para distintos periodos.",
+    "descripcion": "Genera fichas académicas para cada uno de los docentes integrantes de los programas de postgrado para su acreditación, cada ficha incluye: información personal, tesis dirigidas (internas y externas), publicaciones, proyectos y asesorías en las que haya participado para distintos periodos.",
     "url_repositorio": null,
     "url_test": null,
     "url_produccion": null,
@@ -882,8 +890,8 @@
   "model": "atiflow.sistema",
   "pk": 9,
   "fields": {
-    "nombre": "U-vinculaci�n",
-    "descripcion": "Captura y visualiza informaci�n sobre egresados del departamento, reemplazado por alumni ;)",
+    "nombre": "U-vinculación",
+    "descripcion": "Captura y visualiza información sobre egresados del departamento, reemplazado por alumni ;)",
     "url_repositorio": null,
     "url_test": null,
     "url_produccion": null,
@@ -904,8 +912,8 @@
   "model": "atiflow.sistema",
   "pk": 10,
   "fields": {
-    "nombre": "Inscripci�n MTI | SISTEMA DE POSTULACIONES",
-    "descripcion": "Soporta el proceso de postulaci�n al MTI, permite hacer seguimiento a las postulaciones\r\n\r\nFue dado de baja tras vulnerabilidades reportadas por OSI Uchile.\r\n\r\nhttps://github.com/DCC-FCFM-UCHILE/postulaciones_frontend\r\nhttps://github.com/DCC-FCFM-UCHILE/postulaciones_backend",
+    "nombre": "Inscripción MTI | SISTEMA DE POSTULACIONES",
+    "descripcion": "Soporta el proceso de postulación al MTI, permite hacer seguimiento a las postulaciones\r\n\r\nFue dado de baja tras vulnerabilidades reportadas por OSI Uchile.\r\n\r\nhttps://github.com/DCC-FCFM-UCHILE/postulaciones_frontend\r\nhttps://github.com/DCC-FCFM-UCHILE/postulaciones_backend",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/postulaciones_backend",
     "url_test": null,
     "url_produccion": null,
@@ -925,7 +933,7 @@
   "pk": 11,
   "fields": {
     "nombre": "Wiki DCC",
-    "descripcion": "Muestra informaci�n de temas propios del departamento en forma de Wikis: AJC, ALICE, CC3301, Taller Mindstorms (Lego).",
+    "descripcion": "Muestra información de temas propios del departamento en forma de Wikis: AJC, ALICE, CC3301, Taller Mindstorms (Lego).",
     "url_repositorio": null,
     "url_test": null,
     "url_produccion": "https://wiki.dcc.uchile.cl",
@@ -945,7 +953,7 @@
   "pk": 12,
   "fields": {
     "nombre": "ec-calendarios",
-    "descripcion": "Calendarizaci�n de clases de los programas del PEC, exportar calendarios en PDF.",
+    "descripcion": "Calendarización de clases de los programas del PEC, exportar calendarios en PDF.",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/ec-calendarios",
     "url_test": "https://test.dcc.uchile.cl/educacion-continua/calendarios",
     "url_produccion": "https://apps.dcc.uchile.cl/educacion-continua/calendarios",
@@ -986,7 +994,7 @@
   "pk": 14,
   "fields": {
     "nombre": "U-Productividades",
-    "descripcion": "Ingreso, modificaci�n y validaci�n de productividades y coordinaciones del personal del departamento, informes de contabilidad y estad�sticas del proceso de pago de productividades, administraci�n de respaldo de datos de productividades, env�o de informaci�n (mails) de productividades, validaciones pendientes.\r\n\r\nAUTH-SAU",
+    "descripcion": "Ingreso, modificación y validación de productividades y coordinaciones del personal del departamento, informes de contabilidad y estadísticas del proceso de pago de productividades, administración de respaldo de datos de productividades, envío de información (mails) de productividades, validaciones pendientes.\r\n\r\nAUTH-SAU",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/uproductividades",
     "url_test": null,
     "url_produccion": null,
@@ -1006,7 +1014,7 @@
   "pk": 15,
   "fields": {
     "nombre": "com-sitio-web",
-    "descripcion": "Mostrar informaci�n del departamento como noticias, acad�micos, equipos, programas de pregrado, postgrado y educaci�n continua. Adem�s, posee los sistemas de admin y TV incluidos.\r\n\r\nEl sitio web antiguo fue deprecado en marzo de 2023.",
+    "descripcion": "Mostrar información del departamento como noticias, académicos, equipos, programas de pregrado, postgrado y educación continua. Además, posee los sistemas de admin y TV incluidos.\r\n\r\nEl sitio web antiguo fue deprecado en marzo de 2023.",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/com-sitio-web",
     "url_test": "https://web.dcc.uchile.cl/",
     "url_produccion": "https://dcc.uchile.cl/",
@@ -1031,7 +1039,7 @@
   "pk": 16,
   "fields": {
     "nombre": "U-Fondos",
-    "descripcion": "Gesti�n de asignaci�n de fondos",
+    "descripcion": "Gestión de asignación de fondos",
     "url_repositorio": null,
     "url_test": null,
     "url_produccion": "https://ufondos.dcc.uchile.cl/",
@@ -1049,7 +1057,7 @@
   "pk": 17,
   "fields": {
     "nombre": "U-Papers",
-    "descripcion": "Repositorio de publicaciones cient�ficas de los acad�micos del departamento, permite llevar a cabo b�squedas por: t�tulo, fecha, tipo de publicaci�n, (art�culo de journal, conferencia, libro), autor, palabras clave, genera estad�sticas de: visitantes, descargas de las publicaciones, publicaciones por autor.",
+    "descripcion": "Repositorio de publicaciones científicas de los académicos del departamento, permite llevar a cabo búsquedas por: título, fecha, tipo de publicación, (artículo de journal, conferencia, libro), autor, palabras clave, genera estadísticas de: visitantes, descargas de las publicaciones, publicaciones por autor.",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/u-papers",
     "url_test": null,
     "url_produccion": "https://upapers.dcc.uchile.cl",
@@ -1070,8 +1078,8 @@
   "model": "atiflow.sistema",
   "pk": 18,
   "fields": {
-    "nombre": "SAR: Sistema de Administraci�n de Recursos",
-    "descripcion": "Permite la gesti�n/asignaci�n de salas de reuniones y oficinas del departamento. Existe una nueva versión, Dockerizada, actualizada a Django 4, con extensiones y APIs desarrollada por Sebasti�n Zapata pendiente de testing. A�n no defiende. (comprobar esta información) Este sistema permite administrar los espacios f�sicos del DCC. Fue intervenido en 2022 por el memorista Sebasti�n Zapata, con el objetivo de alinear el SAR con las necesidades actuales del DCC. El sistema se encuentra en constante desarrollo.",
+    "nombre": "SAR: Sistema de Administración de Recursos",
+    "descripcion": "Permite la gestión/asignación de salas de reuniones y oficinas del departamento. Existe una nueva versión, Dockerizada, actualizada a Django 4, con extensiones y APIs desarrollada por Sebastián Zapata pendiente de testing. Aún no defiende. (comprobar esta información) Este sistema permite administrar los espacios físicos del DCC. Fue intervenido en 2022 por el memorista Sebastián Zapata, con el objetivo de alinear el SAR con las necesidades actuales del DCC. El sistema se encuentra en constante desarrollo.",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/system-sar",
     "url_test": null,
     "url_produccion": "https://sar.dcc.uchile.cl/auth/login/",
@@ -1198,8 +1206,8 @@
   "model": "atiflow.sistema",
   "pk": 25,
   "fields": {
-    "nombre": "Conformaci�n Equipos Proyecto de Software",
-    "descripcion": "Permite la confecci�n de equipos para los cursos de Ingenier�a de Software 1 y 2.",
+    "nombre": "Conformación Equipos Proyecto de Software",
+    "descripcion": "Permite la confección de equipos para los cursos de Ingeniería de Software 1 y 2.",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/conformacion-equipos",
     "url_test": null,
     "url_produccion": "https://equipos.dcc.uchile.cl",
@@ -1216,7 +1224,7 @@
   "model": "atiflow.sistema",
   "pk": 26,
   "fields": {
-    "nombre": "Wiki de Titulaci�n",
+    "nombre": "Wiki de Titulación",
     "descripcion": "",
     "url_repositorio": null,
     "url_test": null,
@@ -1306,7 +1314,7 @@
   "model": "atiflow.sistema",
   "pk": 31,
   "fields": {
-    "nombre": "Calendario Acad�mico FCFM",
+    "nombre": "Calendario Académico FCFM",
     "descripcion": "",
     "url_repositorio": null,
     "url_test": null,
@@ -1469,7 +1477,7 @@
   "pk": 49,
   "fields": {
     "nombre": "com-sitio-web-admin",
-    "descripcion": "Administraci�n del sitio web de comunicaciones.",
+    "descripcion": "Administración del sitio web de comunicaciones.",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/com-sitio-web",
     "url_test": "https://test.dcc.uchile.cl/comunicaciones/sitio-web-admin",
     "url_produccion": "https://apps.dcc.uchile.cl/comunicaciones/sitio-web-admin",
@@ -1530,7 +1538,7 @@
   "pk": 54,
   "fields": {
     "titulo": "Monitoreo Contenedores",
-    "descripcion": "B�squeda de una herramienta para la monitorización de los contenedores.",
+    "descripcion": "Búsqueda de una herramienta para la monitorización de los contenedores.",
     "estado": "ES",
     "fecha_solicitud": "2024-03-11",
     "comentarios": [
@@ -1562,7 +1570,7 @@
   "pk": 61,
   "fields": {
     "titulo": "Agregar cursos MTI",
-    "descripcion": "Agregar Cursos obligatorios en MTI, En el MTI, solo se encuentran los cursos electivos. Siguiendo el MSC, debemos coordinar con Sandra para determinar d�nde ubicamos los cursos obligatorios en el MTI. Además, evaluaremos si el enfoque utilizado en el MSC es aplicable al MTI. Finalmente                                                         profesor            c�digo         cr�ditos\r\nSeminario de proyectos de TI I     \r\nSergio Ochoa\r\nBenjam�n Bustos\r\nCC79E\r\n6\r\n\r\nSeminario de proyectos de TI II\r\nSergio Ochoa\r\nBenjam�n Bustos\r\nCC79F\r\n6\r\n\r\nProyecto de Grado I\r\nSergio Ochoa\r\nBenjam�n Bustos\r\nCC79G\r\n21\r\n\r\nProyecto de Grado II\r\nSergio Ochoa\r\nBenjam�n Bustos\r\nCC79H\r\n21",
+    "descripcion": "Agregar Cursos obligatorios en MTI, En el MTI, solo se encuentran los cursos electivos. Siguiendo el MSC, debemos coordinar con Sandra para determinar donde ubicamos los cursos obligatorios en el MTI. Además, evaluaremos si el enfoque utilizado en el MSC es aplicable al MTI. Finalmente  \r\n---------------------------\r\nNombre\r\nprofesor\r\ncódigo \r\ncréditos\r\n\r\nSeminario de proyectos de TI I     \r\nSergio Ochoa\r\nBenjamin Bustos\r\nCC79E\r\n6\r\n\r\nSeminario de proyectos de TI II\r\nSergio Ochoa\r\nBenjamín Bustos\r\nCC79F\r\n6\r\n\r\nProyecto de Grado I\r\nSergio Ochoa\r\nBenjamín Bustos\r\nCC79G\r\n21\r\n\r\nProyecto de Grado II\r\nSergio Ochoa\r\nBenjamín Bustos\r\nCC79H\r\n21",
     "estado": "ES",
     "fecha_solicitud": "2024-03-20",
     "comentarios": [
@@ -1579,8 +1587,8 @@
   "model": "atiflow.tarea",
   "pk": 64,
   "fields": {
-    "titulo": "Error en titulaci�n con M-Toro",
-    "descripcion": "Mat�as Toro, omento de ir a Mis Temas, mostrar todos, no se va al inicio y no filtra.",
+    "titulo": "Error en titulación con M-Toro",
+    "descripcion": "Matías Toro, omento de ir a Mis Temas, mostrar todos, no se va al inicio y no filtra.",
     "estado": "NI",
     "fecha_solicitud": "2024-03-19",
     "comentarios": [],
@@ -1594,7 +1602,7 @@
   "pk": 65,
   "fields": {
     "titulo": "No cargan eventos en la web",
-    "descripcion": "Se ha identificado un problema en la p�gina web cuando no hay eventos programados, lo que provoca errores. Aunque pfilla@dcc.uchile.cl indica que se ha a�adido un evento, es necesario realizar una verificaci�n para determinar la causa exacta del fallo. Una soluci�n temporal es asegurarse de tener al menos un evento publicado anualmente. Aunque el error inmediato se ha resuelto, el problema a�n requiere atenci�n para una soluci�n definitiva.\r\n\r\nhttps://dcc.uchile.cl/difusion/eventos/",
+    "descripcion": "Se ha identificado un problema en la página web cuando no hay eventos programados, lo que provoca errores. Aunque pfilla@dcc.uchile.cl indica que se ha añadido un evento, es necesario realizar una verificación para determinar la causa exacta del fallo. Una solución temporal es asegurarse de tener al menos un evento publicado anualmente. Aunque el error inmediato se ha resuelto, el problema aún requiere atención para una solución definitiva.\r\n\r\nhttps://dcc.uchile.cl/difusion/eventos/",
     "estado": "NI",
     "fecha_solicitud": "2024-03-21",
     "comentarios": [],
@@ -1609,7 +1617,7 @@
   "pk": 66,
   "fields": {
     "titulo": "Mejora del calendario PEC",
-    "descripcion": "Paulette propone:\r\n\r\nEn el documento PDF de los calendarios, los textos no son copiables. Adem�s, en los cursos gestionados por el editor donde intervienen dos o m�s profesores, falta una separaci�n entre ellos.",
+    "descripcion": "Paulette propone:\r\n\r\nEn el documento PDF de los calendarios, los textos no son copiables. Además, en los cursos gestionados por el editor donde intervienen dos o más profesores, falta una separación entre ellos.",
     "estado": "NI",
     "fecha_solicitud": "2024-03-22",
     "comentarios": [],
@@ -1623,7 +1631,7 @@
   "pk": 68,
   "fields": {
     "titulo": "Memoria Matías",
-    "descripcion": "Revisión de trabajo de memoria de Matías. El estudiante no podr� resolver los problemas pendientes, por lo que se programar� una reuni�n para sincronizar el estado actual y discutir los pasos a seguir.\r\n\r\nEl estudiante se encargar� de resolver problemas relacionados con la calidad del c�digo. Existen discrepancias en cuanto a la definici�n del alcance de su tarea y si incluye la responsabilidad de dejar el sistema funcionando en producci�n, lo cual forma parte de la �ltima etapa mencionada.\r\n\r\nSe ha enviado una respuesta al correo; el alcance de la responsabilidad del alumno, a�n est� por \r\ndeterminarse. daniel.perovich@gmail.com se pondr� en contacto con cecilia@dcc.uchile.cl para discutir y aclarar los detalles\r\n\r\nActualmente, el proyecto est� en fase de pruebas; los �nicos cambios implementados han sido los realizados por el estudiante.\r\nEl proyecto super� la etapa de pruebas por parte del alumno, retocando algunos estilos solamente, ahora est� a la espera del visto bueno de Cecilia. Ella ya fue notificada por correo.\r\n\r\nSe homologan los datos en producci�n con testing: https://portalpsw.test.dcc.uchile.cl/\r\n\r\nSe informa a Cecilia y estamos a la espera de su visto bueno para pasar a producci�n.",
+    "descripcion": "Revisión de trabajo de memoria de Matías. El estudiante no podrá resolver los problemas pendientes, por lo que se programará una reunión para sincronizar el estado actual y discutir los pasos a seguir.\r\n\r\nEl estudiante se encargará de resolver problemas relacionados con la calidad del código. Existen discrepancias en cuanto a la definición del alcance de su tarea y si incluye la responsabilidad de dejar el sistema funcionando en producción, lo cual forma parte de la última etapa mencionada.\r\n\r\nSe ha enviado una respuesta al correo; el alcance de la responsabilidad del alumno, aún está por \r\ndeterminarse. daniel.perovich@gmail.com se pondrá en contacto con cecilia@dcc.uchile.cl para discutir y aclarar los detalles\r\n\r\nActualmente, el proyecto está en fase de pruebas; los únicos cambios implementados han sido los realizados por el estudiante.\r\nEl proyecto superó la etapa de pruebas por parte del alumno, retocando algunos estilos solamente, ahora está a la espera del visto bueno de Cecilia. Ella ya fue notificada por correo.\r\n\r\nSe homologan los datos en producción con testing: https://portalpsw.test.dcc.uchile.cl/\r\n\r\nSe informa a Cecilia y estamos a la espera de su visto bueno para pasar a producción.",
     "estado": "TE",
     "fecha_solicitud": "2024-03-11",
     "comentarios": [],
@@ -1637,11 +1645,25 @@
   "pk": 69,
   "fields": {
     "titulo": "Usuarios en coevaluaciones",
-    "descripcion": "@benjamin far�as(fariasbenj@gmail.com), solicita: Hola, Le escribo de parte del equipo docente del curso CC5205 Miner�a de datos, secciones 1 y 2. Nos gustar�a solicitar un usuario y curso en el sistema de coevaluaciones.\r\n\r\nSaludos y gracias de antemano.\r\n\r\nno se sabe como proceder, se consulta a Juan Arriagada. \r\n\r\nJuan Arriagada solicita informaci�n y lo resuelve.",
+    "descripcion": "@benjamin Farías(fariasbenj@gmail.com), solicita: Hola, Le escribo de parte del equipo docente del curso CC5205 Minería de datos, secciones 1 y 2. Nos gustaría solicitar un usuario y curso en el sistema de coevaluaciones.\r\n\r\nSaludos y gracias de antemano.\r\n\r\nno se sabe como proceder, se consulta a Juan Arriagada. \r\n\r\nJuan Arriagada solicita información y lo resuelve.",
     "estado": "TE",
     "fecha_solicitud": "2024-03-11",
     "comentarios": [],
     "sistemas_afectados": []
+  }
+},
+{
+  "model": "atiflow.tarea",
+  "pk": 70,
+  "fields": {
+    "titulo": "Aumentar proyectos de software.",
+    "descripcion": "Alumno Tomás, indica que para su memoria la cantidad de proyectos iniciales son 200. Esto fue modificado por ATI-DCC, pero el alumno pide rectificar.",
+    "estado": "NI",
+    "fecha_solicitud": "2024-04-23",
+    "comentarios": [],
+    "sistemas_afectados": [
+      67
+    ]
   }
 }
 ]

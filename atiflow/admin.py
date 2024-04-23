@@ -18,7 +18,7 @@ class SistemaAdmin(admin.ModelAdmin):
 @admin.register(Tarea)
 class TareaAdmin(admin.ModelAdmin):
     list_display = ('titulo', 'estado', 'fecha_solicitud', 'detail_view_link')
-    search_fields = ('nombre',)
+    search_fields = ('titulo',)
     list_filter = ('estado','fecha_solicitud',)
 
     def detail_view_link(self, obj):
@@ -26,8 +26,6 @@ class TareaAdmin(admin.ModelAdmin):
         return format_html('<a href="{}">Ver Detalles</a>', url)
     
     detail_view_link.short_description = 'Ver Detalles'
-
-
 
 @admin.register(Tecnologia)
 class TecnologiaAdmin(admin.ModelAdmin):

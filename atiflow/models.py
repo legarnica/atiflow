@@ -6,9 +6,11 @@ class AtiflowModel(models.Model):
     created = models.DateTimeField(auto_now_add=True)
 
 class Comentario(AtiflowModel):
-    detalle = models.CharField(max_length=100)
-    fecha = models.DateTimeField(auto_now_add=True)
+    texto = models.TextField()
     user = models.ForeignKey(User, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return self.user.username + ' dice: ' + self.texto[:20] + '...'
 
 
 class Tecnologia(AtiflowModel):
@@ -28,7 +30,6 @@ class Tecnologia(AtiflowModel):
     )
     descripcion = models.TextField(null=True, blank=True)
     version = models.CharField(max_length=100, null=True, blank=True)
-
 
     def __str__(self):
         return self.nombre
@@ -72,11 +73,22 @@ class Sistema(AtiflowModel):
     def __str__(self):
         return self.nombre
 
-class EstadoTarea(AtiflowModel):
-    nombre = models.CharField(max_length=100)
-    descripcion = models.CharField(max_length=100)
 
 class Tarea(AtiflowModel):
+
+    class EstadoTarea(models.TextChoices):
+        NO_INICIADA = 'NI', 'No Iniciada'
+        EN_ESPERA = 'ES', 'En Espera'
+        EN_PROGRESO = 'PR', 'En Progreso'
+        TERMINADA = 'TE', 'Terminada'
+        CANCELADA = 'CA', 'Cancelada'
+
     titulo = models.CharField(max_length=100)
-    comentarios = models.ManyToManyField(Comentario)
-    estado = models.ForeignKey(EstadoTarea, on_delete=models.CASCADE)
+    descripcion = models.TextField()
+    comentarios = models.ManyToManyField(Comentario, blank=True)
+    estado = models.CharField(choices=EstadoTarea.choices, max_length=2, default=EstadoTarea.NO_INICIADA)
+    sistemas_afectados = models.ManyToManyField(Sistema, symmetrical=False, blank=True)
+    fecha_solicitud = models.DateField()
+
+    def __str__(self):
+        return self.titulo

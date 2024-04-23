@@ -2,14 +2,10 @@ from django.contrib import admin
 
 # Register your models here.
 
-from .models import Comentario, EstadoTarea, Sistema, Tarea, Tecnologia
+from .models import Comentario, Sistema, Tarea, Tecnologia
 
 @admin.register(Comentario)
 class ComentarioAdmin(admin.ModelAdmin):
-    pass
-
-@admin.register(EstadoTarea)
-class EstadoTareaAdmin(admin.ModelAdmin):
     pass
 
 @admin.register(Sistema)
@@ -20,7 +16,7 @@ class SistemaAdmin(admin.ModelAdmin):
 
 @admin.register(Tarea)
 class TareaAdmin(admin.ModelAdmin):
-    pass
+    list_display = ('titulo', 'estado', 'fecha_solicitud')
 
 @admin.register(Tecnologia)
 class TecnologiaAdmin(admin.ModelAdmin):

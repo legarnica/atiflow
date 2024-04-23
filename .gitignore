@@ -19,7 +19,6 @@ lib64/
 parts/
 sdist/
 var/
-__pycache__/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
@@ -135,3 +134,5 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+**/__pycache__/
+

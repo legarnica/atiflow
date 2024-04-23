@@ -555,15 +555,7 @@
   "model": "atiflow.comentario",
   "pk": 52,
   "fields": {
-    "texto": "Se consulta con Sergio y Hernán, pero no tienen una propia, si no que usan la consola manualmente para el monitoreo.\r\n\r\nMis Propuestas:\r\nhttps://www.datadoghq.com/\r\n\r\nhttps://sentry.io/\r\n\r\nSergio me indica que él puede realizar este monitoreo, si le enviamos qué es lo que queremos monitorizar (logs, uptime, etc), está a la espera de nuestro requerimiento.\r\n\r\nSe debe investigar:\r\nELK Stack: Elasticsearch, Kibana, Beats y Logstash | Elastic\r\n\r\nLa idea es llegar a logear con salida json.",
-    "user": 1
-  }
-},
-{
-  "model": "atiflow.comentario",
-  "pk": 55,
-  "fields": {
-    "texto": "Se consulta con Sergio y Hernán, pero no tienen una propia, si no que usan la consola manualmente para el monitoreo.\r\n\r\nMis Propuestas:\r\nhttps://www.datadoghq.com/\r\n\r\nhttps://sentry.io/\r\n\r\nSergio me indica que él puede realizar este monitoreo, si le enviamos qué es lo que queremos monitorizar (logs, uptime, etc), está a la espera de nuestro requerimiento.\r\n\r\nSe debe investigar:\r\nELK Stack: Elasticsearch, Kibana, Beats y Logstash | Elastic\r\n\r\nLa idea es llegar a logear con salida json.",
+    "texto": "Se consulta con Sergio y HernÃ¡n, pero no tienen una propia, si no que usan la consola manualmente para el monitoreo., Mis Propuestas:\r\nhttps://www.datadoghq.com/, https://sentry.io/, Sergio me indica que Ã©l puede realizar este monitoreo, si le enviamos quÃ© es lo que queremos monitorizar (logs, uptime, etc), estÃ¡ a la espera de nuestro requerimiento., Se debe investigar:\r\nELK Stack: Elasticsearch, Kibana, Beats y Logstash | Elastic, La idea es llegar a logear con salida json.",
     "user": 1
   }
 },
@@ -603,7 +595,7 @@
   "model": "atiflow.comentario",
   "pk": 62,
   "fields": {
-    "texto": "confirmaremos estos detalles con Paulette.\r\nhttps://dcc.uchile.cl/postgrado/mti/\r\nhttps://dcc.uchile.cl/postgrado/magister/\r\ncomparar estos dos sistemas\r\nDiscutir con Sandra sobre el mejor formato de los existentes.\r\nChristian Bridevaux, definirá dónde y cuando.",
+    "texto": "confirmaremos estos detalles con Paulette. https://dcc.uchile.cl/postgrado/mti/ https://dcc.uchile.cl/postgrado/magister/ comparar estos dos sistemas Discutir con Sandra sobre el mejor formato de los existentes. Christian Bridevaux, definirÃ¡ dÃ³nde y cuando.",
     "user": 1
   }
 },
@@ -653,7 +645,7 @@
   "fields": {
     "nombre": "Python",
     "tipo": "LE",
-    "descripcion": "Python en alguna versión no especificada.",
+    "descripcion": "Python en alguna versiÃ³n no especificada.",
     "version": null
   }
 },
@@ -663,7 +655,7 @@
   "fields": {
     "nombre": "RAKET",
     "tipo": "LE",
-    "descripcion": "Racket es un lenguaje de programación multiparadigma que se originó como una variante del lenguaje Scheme, que a su vez es un dialecto de Lisp. Es conocido por su potente sistema de macros y su excepcional soporte para la programación funcional, pero también soporta otros paradigmas como la programación imperativa y la programación orientada a objetos.\r\n\r\nRacket es particularmente adecuado para comenzar a programar debido a su sencillez y a la riqueza de su ecosistema pedagógico, que incluye un ambiente de desarrollo integrado (IDE) amigable y una amplia variedad de paquetes y bibliotecas. Además, se utiliza ampliamente en la enseñanza de la informática y el diseño de lenguajes de programación, permitiendo a los usuarios definir sus propios sub-lenguajes de dominio específico.\r\n\r\nUno de los aspectos más distintivos de Racket es su enfoque en la creación de nuevos lenguajes dentro del propio lenguaje. Proporciona herramientas que facilitan la creación, manipulación y extensión de lenguajes de programación, lo que permite a los programadores escribir código en el lenguaje que mejor se adapte a su problema.",
+    "descripcion": "Racket es un lenguaje de programaciÃ³n multiparadigma que se originÃ³ como una variante del lenguaje Scheme, que a su vez es un dialecto de Lisp. Es conocido por su potente sistema de macros y su excepcional soporte para la programaciÃ³n funcional, pero tambiÃ©n soporta otros paradigmas como la programaciÃ³n imperativa y la programaciÃ³n orientada a objetos.Racket es particularmente adecuado para comenzar a programar debido a su sencillez y a la riqueza de su ecosistema pedagÃ³gico, que incluye un ambiente de desarrollo integrado (IDE) amigable y una amplia variedad de paquetes y bibliotecas. AdemÃ¡s, se utiliza ampliamente en la enseÃ±anza de la informÃ¡tica y el diseÃ±o de lenguajes de programaciÃ³n, permitiendo a los usuarios definir sus propios sub-lenguajes de dominio especÃ­fico.Uno de los aspectos mÃ¡s distintivos de Racket es su enfoque en la creaciÃ³n de nuevos lenguajes dentro del propio lenguaje. Proporciona herramientas que facilitan la creaciÃ³n, manipulaciÃ³n y extensiÃ³n de lenguajes de programaciÃ³n, lo que permite a los programadores escribir cÃ³digo en el lenguaje que mejor se adapte a su problema.",
     "version": null
   }
 },
@@ -683,7 +675,7 @@
   "fields": {
     "nombre": "DokuWiki",
     "tipo": "OT",
-    "descripcion": "DokuWiki es un software de gestión de contenidos para la creación de documentación, que opera sin base de datos usando archivos de texto plano para el almacenamiento. Es fácil de usar, soporta control de versiones, extensible con plugins, y permite control de acceso detallado. Es ideal para equipos y organizaciones que buscan un sistema simple y eficaz para colaborar en proyectos y documentación.",
+    "descripcion": "DokuWiki es un software de gestiÃ³n de contenidos para la creaciÃ³n de documentaciÃ³n, que opera sin base de datos usando archivos de texto plano para el almacenamiento. Es fÃ¡cil de usar, soporta control de versiones, extensible con plugins, y permite control de acceso detallado. Es ideal para equipos y organizaciones que buscan un sistema simple y eficaz para colaborar en proyectos y documentaciÃ³n.",
     "version": null
   }
 },
@@ -722,7 +714,7 @@
   "pk": 1,
   "fields": {
     "nombre": "U-dashboard",
-    "descripcion": "Almacenamiento de métricas de negocio o productividad para las áreas y unidades del departamento, agregación, modificación y visualización de métricas, asignación de permisos en diferentes roles para la edición de los datos.",
+    "descripcion": "Almacenamiento de mÃ©tricas de negocio o productividad para las Ã¡reas y unidades del departamento, agregaciÃ³n, modificaciÃ³n y visualizaciÃ³n de mÃ©tricas, asignaciÃ³n de permisos en diferentes roles para la ediciÃ³n de los datos.",
     "url_repositorio": null,
     "url_test": null,
     "url_produccion": null,
@@ -747,7 +739,7 @@
   "pk": 2,
   "fields": {
     "nombre": "HAPE",
-    "descripcion": "Soporte completo para el proceso de titulación (E y F).\r\n\r\nNotas\r\nMemoria Sebastián Aguilera / Cecilia B. 2022.1F, hay que recopilar más info al respecto.\r\nactualmente, está en test, pero no se tiene la URL",
+    "descripcion": "Soporte completo para el proceso de titulaci\u00f3n (E y F).Memoria Sebasti\u00e1n Aguilera / Cecilia B. 2022.1F, hay que recopilar m\u00e1s info al respecto.\r\nactualmente, est\u00e1 en test, pero no se tiene la URL",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/hape_dcc",
     "url_test": null,
     "url_produccion": null,
@@ -765,7 +757,7 @@
   "pk": 3,
   "fields": {
     "nombre": "Recordatorio de Eventos",
-    "descripcion": "Crear eventos y enviar recordatorios por correo.\r\nDesarrollado en curso de Ingeniería de Software 2",
+    "descripcion": "Crear eventos y enviar recordatorios por correo. Desarrollado en curso de Ingenierï¿½a de Software 2",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/recordatorio_eventos",
     "url_test": "https://test.dcc.uchile.cl/recordatorio-eventos",
     "url_produccion": null,
@@ -782,8 +774,8 @@
   "model": "atiflow.sistema",
   "pk": 4,
   "fields": {
-    "nombre": "Conformación de equipos",
-    "descripcion": "Permite la confección de equipos para los cursos de Ingeniería de Software 1 y 2.",
+    "nombre": "Conformaciï¿½n de equipos",
+    "descripcion": "Permite la confecciï¿½n de equipos para los cursos de Ingenierï¿½a de Software 1 y 2.",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/conformacion-equipos",
     "url_test": null,
     "url_produccion": "https://equipos.dcc.uchile.cl",
@@ -805,7 +797,7 @@
   "pk": 5,
   "fields": {
     "nombre": "Mainreq",
-    "descripcion": "Gestión de proyectos de desarrollo de software, utilizado en el curso de Ingeniería de Software 2",
+    "descripcion": "Gestiï¿½n de proyectos de desarrollo de software, utilizado en el curso de Ingenierï¿½a de Software 2",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/mainreq",
     "url_test": null,
     "url_produccion": "https://mainreq.dcc.uchile.cl/",
@@ -847,7 +839,7 @@
   "pk": 7,
   "fields": {
     "nombre": "Coevaluaciones",
-    "descripcion": "Realización de coevaluaciones entre estudiantes de distintos cursos de pregrado.",
+    "descripcion": "Realizaciï¿½n de coevaluaciones entre estudiantes de distintos cursos de pregrado.",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/coevaluaciones",
     "url_test": null,
     "url_produccion": null,
@@ -867,7 +859,7 @@
   "pk": 8,
   "fields": {
     "nombre": "U-Fichas",
-    "descripcion": "Genera fichas académicas para cada uno de los docentes integrantes de los programas de postgrado para su acreditación, cada ficha incluye: información personal, tesis dirigidas (internas y externas), publicaciones, proyectos y asesorías en las que haya participado para distintos periodos.",
+    "descripcion": "Genera fichas acad\u00e9micas para cada uno de los docentes integrantes de los programas de postgrado para su acreditaci\u00f3n, cada ficha incluye: informaci\u00f3n personal, tesis dirigidas (internas y externas), publicaciones, proyectos y asesor\u00edas en las que haya participado para distintos periodos.",
     "url_repositorio": null,
     "url_test": null,
     "url_produccion": null,
@@ -890,8 +882,8 @@
   "model": "atiflow.sistema",
   "pk": 9,
   "fields": {
-    "nombre": "U-vinculación",
-    "descripcion": "Captura y visualiza información sobre egresados del departamento\r\n\r\nreemplazado por alumni ;)",
+    "nombre": "U-vinculaciï¿½n",
+    "descripcion": "Captura y visualiza informaciï¿½n sobre egresados del departamento, reemplazado por alumni ;)",
     "url_repositorio": null,
     "url_test": null,
     "url_produccion": null,
@@ -912,8 +904,8 @@
   "model": "atiflow.sistema",
   "pk": 10,
   "fields": {
-    "nombre": "Inscripción MTI | SISTEMA DE POSTULACIONES",
-    "descripcion": "Soporta el proceso de postulación al MTI, permite hacer seguimiento a las postulaciones\r\n\r\nFue dado de baja tras vulnerabilidades reportadas por OSI Uchile.\r\n\r\nhttps://github.com/DCC-FCFM-UCHILE/postulaciones_frontend\r\nhttps://github.com/DCC-FCFM-UCHILE/postulaciones_backend",
+    "nombre": "Inscripciï¿½n MTI | SISTEMA DE POSTULACIONES",
+    "descripcion": "Soporta el proceso de postulaciï¿½n al MTI, permite hacer seguimiento a las postulaciones\r\n\r\nFue dado de baja tras vulnerabilidades reportadas por OSI Uchile.\r\n\r\nhttps://github.com/DCC-FCFM-UCHILE/postulaciones_frontend\r\nhttps://github.com/DCC-FCFM-UCHILE/postulaciones_backend",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/postulaciones_backend",
     "url_test": null,
     "url_produccion": null,
@@ -933,7 +925,7 @@
   "pk": 11,
   "fields": {
     "nombre": "Wiki DCC",
-    "descripcion": "Muestra información de temas propios del departamento en forma de Wikis: AJC, ALICE, CC3301, Taller Mindstorms (Lego).",
+    "descripcion": "Muestra informaciï¿½n de temas propios del departamento en forma de Wikis: AJC, ALICE, CC3301, Taller Mindstorms (Lego).",
     "url_repositorio": null,
     "url_test": null,
     "url_produccion": "https://wiki.dcc.uchile.cl",
@@ -953,7 +945,7 @@
   "pk": 12,
   "fields": {
     "nombre": "ec-calendarios",
-    "descripcion": "Calendarización de clases de los programas del PEC, exportar calendarios en PDF.",
+    "descripcion": "Calendarizaciï¿½n de clases de los programas del PEC, exportar calendarios en PDF.",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/ec-calendarios",
     "url_test": "https://test.dcc.uchile.cl/educacion-continua/calendarios",
     "url_produccion": "https://apps.dcc.uchile.cl/educacion-continua/calendarios",
@@ -971,7 +963,7 @@
   "pk": 13,
   "fields": {
     "nombre": "U-Proyectos",
-    "descripcion": "Registro de proyectos asociados a los académicos del departamento, información financiera y estadística de proyectos. Registro de investigadores internos y externos que participaron en proyectos conjuntos con académicos del departamento, registro de académicos, visitantes y postdoctorales temporales realizando estadías de trabajo.\r\n\r\n-----\r\n- Existe una nueva versión, Dockerizada, actualizada a PHP 8, con extensiones y APIs desarrollada por Joaquín Pérez, disponible en [uproyectos-test.dcc.uchile.cl](http://uproyectos-test.dcc.uchile.cl/) Aún no defiende.\r\nOtro memorista (E2023.1) está haciendo reingeniería de este sistema.",
+    "descripcion": "Registro de proyectos asociados a los acadÃ©micos del departamento, informaciÃ³n financiera y estadÃ­stica de proyectos. Registro de investigadores internos y externos que participaron en proyectos conjuntos con acadÃ©micos del departamento, registro de acadÃ©micos, visitantes y postdoctorales temporales realizando estadÃ­as de trabajo.\r\n\r\n-----\r\n- Existe una nueva versiÃ³n, Dockerizada, actualizada a PHP 8, con extensiones y APIs desarrollada por JoaquÃ­n PÃ©rez, disponible en [uproyectos-test.dcc.uchile.cl](http://uproyectos-test.dcc.uchile.cl/) AÃºn no defiende.\r\nOtro memorista (E2023.1) estÃ¡ haciendo reingenierÃ­a de este sistema.",
     "url_repositorio": null,
     "url_test": "http://uproyectos-test.dcc.uchile.cl/",
     "url_produccion": null,
@@ -994,7 +986,7 @@
   "pk": 14,
   "fields": {
     "nombre": "U-Productividades",
-    "descripcion": "Ingreso, modificación y validación de productividades y coordinaciones del personal del departamento, informes de contabilidad y estadísticas del proceso de pago de productividades, administración de respaldo de datos de productividades, envío de información (mails) de productividades, validaciones pendientes.\r\n\r\nAUTH-SAU",
+    "descripcion": "Ingreso, modificaciï¿½n y validaciï¿½n de productividades y coordinaciones del personal del departamento, informes de contabilidad y estadï¿½sticas del proceso de pago de productividades, administraciï¿½n de respaldo de datos de productividades, envï¿½o de informaciï¿½n (mails) de productividades, validaciones pendientes.\r\n\r\nAUTH-SAU",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/uproductividades",
     "url_test": null,
     "url_produccion": null,
@@ -1014,7 +1006,7 @@
   "pk": 15,
   "fields": {
     "nombre": "com-sitio-web",
-    "descripcion": "Mostrar información del departamento como noticias, académicos, equipos, programas de pregrado, postgrado y educación continua. Además, posee los sistemas de admin y TV incluidos.\r\n\r\nEl sitio web antiguo fue deprecado en marzo de 2023.",
+    "descripcion": "Mostrar informaciï¿½n del departamento como noticias, acadï¿½micos, equipos, programas de pregrado, postgrado y educaciï¿½n continua. Ademï¿½s, posee los sistemas de admin y TV incluidos.\r\n\r\nEl sitio web antiguo fue deprecado en marzo de 2023.",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/com-sitio-web",
     "url_test": "https://web.dcc.uchile.cl/",
     "url_produccion": "https://dcc.uchile.cl/",
@@ -1039,7 +1031,7 @@
   "pk": 16,
   "fields": {
     "nombre": "U-Fondos",
-    "descripcion": "Gestión de asignación de fondos",
+    "descripcion": "Gestiï¿½n de asignaciï¿½n de fondos",
     "url_repositorio": null,
     "url_test": null,
     "url_produccion": "https://ufondos.dcc.uchile.cl/",
@@ -1057,7 +1049,7 @@
   "pk": 17,
   "fields": {
     "nombre": "U-Papers",
-    "descripcion": "Repositorio de publicaciones científicas de los académicos del departamento, permite llevar a cabo búsquedas por: título, fecha, tipo de publicación, (artículo de journal, conferencia, libro), autor, palabras clave, genera estadísticas de: visitantes, descargas de las publicaciones, publicaciones por autor.",
+    "descripcion": "Repositorio de publicaciones cientï¿½ficas de los acadï¿½micos del departamento, permite llevar a cabo bï¿½squedas por: tï¿½tulo, fecha, tipo de publicaciï¿½n, (artï¿½culo de journal, conferencia, libro), autor, palabras clave, genera estadï¿½sticas de: visitantes, descargas de las publicaciones, publicaciones por autor.",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/u-papers",
     "url_test": null,
     "url_produccion": "https://upapers.dcc.uchile.cl",
@@ -1078,8 +1070,8 @@
   "model": "atiflow.sistema",
   "pk": 18,
   "fields": {
-    "nombre": "SAR: Sistema de Administración de Recursos",
-    "descripcion": "Permite la gestión/asignación de salas de reuniones y oficinas del departamento.\r\n\r\n\r\nExiste una nueva versión, Dockerizada, actualizada a Django 4, con extensiones y APIs desarrollada por Sebastián Zapata pendiente de testing. Aún no defiende. (comprobar esta información)\r\nEste sistema permite administrar los espacios físicos del DCC. Fue intervenido en 2022 por el memorista Sebastián Zapata, con el objetivo de alinear el SAR con las necesidades actuales del DCC. El sistema se encuentra en constante desarrollo.",
+    "nombre": "SAR: Sistema de Administraciï¿½n de Recursos",
+    "descripcion": "Permite la gestiï¿½n/asignaciï¿½n de salas de reuniones y oficinas del departamento. Existe una nueva versiÃ³n, Dockerizada, actualizada a Django 4, con extensiones y APIs desarrollada por Sebastiï¿½n Zapata pendiente de testing. Aï¿½n no defiende. (comprobar esta informaciÃ³n) Este sistema permite administrar los espacios fï¿½sicos del DCC. Fue intervenido en 2022 por el memorista Sebastiï¿½n Zapata, con el objetivo de alinear el SAR con las necesidades actuales del DCC. El sistema se encuentra en constante desarrollo.",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/system-sar",
     "url_test": null,
     "url_produccion": "https://sar.dcc.uchile.cl/auth/login/",
@@ -1206,8 +1198,8 @@
   "model": "atiflow.sistema",
   "pk": 25,
   "fields": {
-    "nombre": "Conformación Equipos Proyecto de Software",
-    "descripcion": "Permite la confección de equipos para los cursos de Ingeniería de Software 1 y 2.",
+    "nombre": "Conformaciï¿½n Equipos Proyecto de Software",
+    "descripcion": "Permite la confecciï¿½n de equipos para los cursos de Ingenierï¿½a de Software 1 y 2.",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/conformacion-equipos",
     "url_test": null,
     "url_produccion": "https://equipos.dcc.uchile.cl",
@@ -1224,7 +1216,7 @@
   "model": "atiflow.sistema",
   "pk": 26,
   "fields": {
-    "nombre": "Wiki de Titulación",
+    "nombre": "Wiki de Titulaciï¿½n",
     "descripcion": "",
     "url_repositorio": null,
     "url_test": null,
@@ -1314,7 +1306,7 @@
   "model": "atiflow.sistema",
   "pk": 31,
   "fields": {
-    "nombre": "Calendario Académico FCFM",
+    "nombre": "Calendario Acadï¿½mico FCFM",
     "descripcion": "",
     "url_repositorio": null,
     "url_test": null,
@@ -1477,7 +1469,7 @@
   "pk": 49,
   "fields": {
     "nombre": "com-sitio-web-admin",
-    "descripcion": "Administración del sitio web de comunicaciones.",
+    "descripcion": "Administraciï¿½n del sitio web de comunicaciones.",
     "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/com-sitio-web",
     "url_test": "https://test.dcc.uchile.cl/comunicaciones/sitio-web-admin",
     "url_produccion": "https://apps.dcc.uchile.cl/comunicaciones/sitio-web-admin",
@@ -1538,7 +1530,7 @@
   "pk": 54,
   "fields": {
     "titulo": "Monitoreo Contenedores",
-    "descripcion": "Búsqueda de una herramienta para la monitorización de los contenedores.",
+    "descripcion": "Bï¿½squeda de una herramienta para la monitorizaciÃ³n de los contenedores.",
     "estado": "ES",
     "fecha_solicitud": "2024-03-11",
     "comentarios": [
@@ -1551,7 +1543,7 @@
   "model": "atiflow.tarea",
   "pk": 59,
   "fields": {
-    "titulo": "Análisis de coevaluaciones",
+    "titulo": "AnÃ¡lisis de coevaluaciones",
     "descripcion": "Conocer el funcionamiento del sistema, para estar preparado ante un issue inesperado",
     "estado": "ES",
     "fecha_solicitud": "2024-03-11",
@@ -1570,7 +1562,7 @@
   "pk": 61,
   "fields": {
     "titulo": "Agregar cursos MTI",
-    "descripcion": "Agregar Cursos obligatorios en MTI\r\n\r\nEn el MTI, solo se encuentran los cursos electivos. Siguiendo el MSC, debemos coordinar con Sandra para determinar dónde ubicamos los cursos obligatorios en el MTI. Además, evaluaremos si el enfoque utilizado en el MSC es aplicable al MTI. Finalmente\r\n\r\n---\r\ncurso                                                         profesor            código         créditos\r\nSeminario de proyectos de TI I     \r\nSergio Ochoa\r\nBenjamín Bustos\r\nCC79E\r\n6\r\n\r\nSeminario de proyectos de TI II\r\nSergio Ochoa\r\nBenjamín Bustos\r\nCC79F\r\n6\r\n\r\nProyecto de Grado I\r\nSergio Ochoa\r\nBenjamín Bustos\r\nCC79G\r\n21\r\n\r\nProyecto de Grado II\r\nSergio Ochoa\r\nBenjamín Bustos\r\nCC79H\r\n21",
+    "descripcion": "Agregar Cursos obligatorios en MTI, En el MTI, solo se encuentran los cursos electivos. Siguiendo el MSC, debemos coordinar con Sandra para determinar dï¿½nde ubicamos los cursos obligatorios en el MTI. AdemÃ¡s, evaluaremos si el enfoque utilizado en el MSC es aplicable al MTI. Finalmente                                                         profesor            cï¿½digo         crï¿½ditos\r\nSeminario de proyectos de TI I     \r\nSergio Ochoa\r\nBenjamï¿½n Bustos\r\nCC79E\r\n6\r\n\r\nSeminario de proyectos de TI II\r\nSergio Ochoa\r\nBenjamï¿½n Bustos\r\nCC79F\r\n6\r\n\r\nProyecto de Grado I\r\nSergio Ochoa\r\nBenjamï¿½n Bustos\r\nCC79G\r\n21\r\n\r\nProyecto de Grado II\r\nSergio Ochoa\r\nBenjamï¿½n Bustos\r\nCC79H\r\n21",
     "estado": "ES",
     "fecha_solicitud": "2024-03-20",
     "comentarios": [
@@ -1587,8 +1579,8 @@
   "model": "atiflow.tarea",
   "pk": 64,
   "fields": {
-    "titulo": "Error en titulación con M-Toro",
-    "descripcion": "Matías Toro, omento de ir a Mis Temas, mostrar todos, no se va al inicio y no filtra.",
+    "titulo": "Error en titulaciï¿½n con M-Toro",
+    "descripcion": "Matï¿½as Toro, omento de ir a Mis Temas, mostrar todos, no se va al inicio y no filtra.",
     "estado": "NI",
     "fecha_solicitud": "2024-03-19",
     "comentarios": [],
@@ -1602,7 +1594,7 @@
   "pk": 65,
   "fields": {
     "titulo": "No cargan eventos en la web",
-    "descripcion": "Se ha identificado un problema en la página web cuando no hay eventos programados, lo que provoca errores. Aunque pfilla@dcc.uchile.cl indica que se ha añadido un evento, es necesario realizar una verificación para determinar la causa exacta del fallo. Una solución temporal es asegurarse de tener al menos un evento publicado anualmente. Aunque el error inmediato se ha resuelto, el problema aún requiere atención para una solución definitiva.\r\n\r\nhttps://dcc.uchile.cl/difusion/eventos/",
+    "descripcion": "Se ha identificado un problema en la pï¿½gina web cuando no hay eventos programados, lo que provoca errores. Aunque pfilla@dcc.uchile.cl indica que se ha aï¿½adido un evento, es necesario realizar una verificaciï¿½n para determinar la causa exacta del fallo. Una soluciï¿½n temporal es asegurarse de tener al menos un evento publicado anualmente. Aunque el error inmediato se ha resuelto, el problema aï¿½n requiere atenciï¿½n para una soluciï¿½n definitiva.\r\n\r\nhttps://dcc.uchile.cl/difusion/eventos/",
     "estado": "NI",
     "fecha_solicitud": "2024-03-21",
     "comentarios": [],
@@ -1617,7 +1609,7 @@
   "pk": 66,
   "fields": {
     "titulo": "Mejora del calendario PEC",
-    "descripcion": "Paulette propone:\r\n\r\nEn el documento PDF de los calendarios, los textos no son copiables. Además, en los cursos gestionados por el editor donde intervienen dos o más profesores, falta una separación entre ellos.",
+    "descripcion": "Paulette propone:\r\n\r\nEn el documento PDF de los calendarios, los textos no son copiables. Ademï¿½s, en los cursos gestionados por el editor donde intervienen dos o mï¿½s profesores, falta una separaciï¿½n entre ellos.",
     "estado": "NI",
     "fecha_solicitud": "2024-03-22",
     "comentarios": [],
@@ -1630,8 +1622,8 @@
   "model": "atiflow.tarea",
   "pk": 68,
   "fields": {
-    "titulo": "Memoria Matías",
-    "descripcion": "Revisión de trabajo de memoria de Matías. \r\n\r\nEl estudiante no podrá resolver los problemas pendientes, por lo que se programará una reunión para sincronizar el estado actual y discutir los pasos a seguir.\r\n\r\nEl estudiante se encargará de resolver problemas relacionados con la calidad del código. Existen discrepancias en cuanto a la definición del alcance de su tarea y si incluye la responsabilidad de dejar el sistema funcionando en producción, lo cual forma parte de la última etapa mencionada.\r\n\r\nSe ha enviado una respuesta al correo; el alcance de la responsabilidad del alumno, aún está por \r\ndeterminarse. daniel.perovich@gmail.com se pondrá en contacto con cecilia@dcc.uchile.cl para discutir y aclarar los detalles\r\n\r\nActualmente, el proyecto está en fase de pruebas; los únicos cambios implementados han sido los realizados por el estudiante.\r\nEl proyecto superó la etapa de pruebas por parte del alumno, retocando algunos estilos solamente, ahora está a la espera del visto bueno de Cecilia. Ella ya fue notificada por correo.\r\n\r\nSe homologan los datos en producción con testing: https://portalpsw.test.dcc.uchile.cl/\r\n\r\nSe informa a Cecilia y estamos a la espera de su visto bueno para pasar a producción.",
+    "titulo": "Memoria MatÃ­as",
+    "descripcion": "RevisiÃ³n de trabajo de memoria de MatÃ­as. El estudiante no podrï¿½ resolver los problemas pendientes, por lo que se programarï¿½ una reuniï¿½n para sincronizar el estado actual y discutir los pasos a seguir.\r\n\r\nEl estudiante se encargarï¿½ de resolver problemas relacionados con la calidad del cï¿½digo. Existen discrepancias en cuanto a la definiciï¿½n del alcance de su tarea y si incluye la responsabilidad de dejar el sistema funcionando en producciï¿½n, lo cual forma parte de la ï¿½ltima etapa mencionada.\r\n\r\nSe ha enviado una respuesta al correo; el alcance de la responsabilidad del alumno, aï¿½n estï¿½ por \r\ndeterminarse. daniel.perovich@gmail.com se pondrï¿½ en contacto con cecilia@dcc.uchile.cl para discutir y aclarar los detalles\r\n\r\nActualmente, el proyecto estï¿½ en fase de pruebas; los ï¿½nicos cambios implementados han sido los realizados por el estudiante.\r\nEl proyecto superï¿½ la etapa de pruebas por parte del alumno, retocando algunos estilos solamente, ahora estï¿½ a la espera del visto bueno de Cecilia. Ella ya fue notificada por correo.\r\n\r\nSe homologan los datos en producciï¿½n con testing: https://portalpsw.test.dcc.uchile.cl/\r\n\r\nSe informa a Cecilia y estamos a la espera de su visto bueno para pasar a producciï¿½n.",
     "estado": "TE",
     "fecha_solicitud": "2024-03-11",
     "comentarios": [],
@@ -1645,7 +1637,7 @@
   "pk": 69,
   "fields": {
     "titulo": "Usuarios en coevaluaciones",
-    "descripcion": "@benjamin farìas(fariasbenj@gmail.com), solicita:\r\n\r\nHola,\r\n\r\nLe escribo de parte del equipo docente del curso CC5205 Minería de datos, secciones 1 y 2. Nos gustaría solicitar un usuario y curso en el sistema de coevaluaciones.\r\n\r\nSaludos y gracias de antemano.\r\n\r\nno se sabe como proceder, se consulta a Juan Arriagada. \r\n\r\nJuan Arriagada solicita información y lo resuelve.",
+    "descripcion": "@benjamin farï¿½as(fariasbenj@gmail.com), solicita: Hola, Le escribo de parte del equipo docente del curso CC5205 Minerï¿½a de datos, secciones 1 y 2. Nos gustarï¿½a solicitar un usuario y curso en el sistema de coevaluaciones.\r\n\r\nSaludos y gracias de antemano.\r\n\r\nno se sabe como proceder, se consulta a Juan Arriagada. \r\n\r\nJuan Arriagada solicita informaciï¿½n y lo resuelve.",
     "estado": "TE",
     "fecha_solicitud": "2024-03-11",
     "comentarios": [],

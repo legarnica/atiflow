@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Django stuff:
+*.log
+db.sqlite3
+media/
+
+# Environments
+.venv/
+env/
+
+# Coverage reports
+.coverage
+.coverage.*
+
+# Ignore all settings assumed to be in the local_settings module.
+local_settings.py

@@ -10,6 +10,7 @@ media/
 # Environments
 .venv/
 env/
+venv/
 
 # Coverage reports
 .coverage

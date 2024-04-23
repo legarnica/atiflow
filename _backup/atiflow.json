@@ -1,0 +1,1655 @@
+[
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 1,
+  "fields": {
+    "updated": "2024-04-23T14:36:59.144Z",
+    "created": "2024-04-22T20:20:58.838Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 2,
+  "fields": {
+    "updated": "2024-04-23T16:43:11.682Z",
+    "created": "2024-04-22T20:21:59.080Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 3,
+  "fields": {
+    "updated": "2024-04-23T16:45:05.434Z",
+    "created": "2024-04-22T20:22:09.169Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 4,
+  "fields": {
+    "updated": "2024-04-23T14:48:02.020Z",
+    "created": "2024-04-22T20:22:15.215Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 5,
+  "fields": {
+    "updated": "2024-04-23T14:50:18.276Z",
+    "created": "2024-04-22T20:22:22.864Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 6,
+  "fields": {
+    "updated": "2024-04-23T13:34:58.160Z",
+    "created": "2024-04-22T20:22:28.783Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 7,
+  "fields": {
+    "updated": "2024-04-23T13:36:01.248Z",
+    "created": "2024-04-22T20:22:34.359Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 8,
+  "fields": {
+    "updated": "2024-04-23T13:38:04.849Z",
+    "created": "2024-04-22T20:22:42.402Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 9,
+  "fields": {
+    "updated": "2024-04-23T16:46:15.591Z",
+    "created": "2024-04-22T20:22:48.335Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 10,
+  "fields": {
+    "updated": "2024-04-23T16:47:48.472Z",
+    "created": "2024-04-22T20:22:56.330Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 11,
+  "fields": {
+    "updated": "2024-04-23T14:35:56.796Z",
+    "created": "2024-04-22T20:23:07.799Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 12,
+  "fields": {
+    "updated": "2024-04-23T13:51:13.617Z",
+    "created": "2024-04-22T20:23:12.711Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 13,
+  "fields": {
+    "updated": "2024-04-23T16:50:35.997Z",
+    "created": "2024-04-22T20:23:19.064Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 14,
+  "fields": {
+    "updated": "2024-04-23T13:56:09.663Z",
+    "created": "2024-04-22T20:23:24.606Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 15,
+  "fields": {
+    "updated": "2024-04-23T16:51:35.496Z",
+    "created": "2024-04-22T20:23:30.246Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 16,
+  "fields": {
+    "updated": "2024-04-23T14:09:51.419Z",
+    "created": "2024-04-22T20:23:34.926Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 17,
+  "fields": {
+    "updated": "2024-04-23T14:35:24.462Z",
+    "created": "2024-04-22T20:23:40.406Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 18,
+  "fields": {
+    "updated": "2024-04-23T16:53:45.571Z",
+    "created": "2024-04-22T20:23:55.005Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 19,
+  "fields": {
+    "updated": "2024-04-22T20:24:00.665Z",
+    "created": "2024-04-22T20:24:00.665Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 20,
+  "fields": {
+    "updated": "2024-04-23T14:18:15.238Z",
+    "created": "2024-04-22T20:24:05.783Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 21,
+  "fields": {
+    "updated": "2024-04-22T20:24:10.872Z",
+    "created": "2024-04-22T20:24:10.872Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 22,
+  "fields": {
+    "updated": "2024-04-22T20:24:15.944Z",
+    "created": "2024-04-22T20:24:15.944Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 23,
+  "fields": {
+    "updated": "2024-04-22T20:24:23.736Z",
+    "created": "2024-04-22T20:24:23.736Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 24,
+  "fields": {
+    "updated": "2024-04-22T20:24:28.903Z",
+    "created": "2024-04-22T20:24:28.903Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 25,
+  "fields": {
+    "updated": "2024-04-22T21:58:27.750Z",
+    "created": "2024-04-22T20:24:34.815Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 26,
+  "fields": {
+    "updated": "2024-04-22T20:24:41.456Z",
+    "created": "2024-04-22T20:24:41.456Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 27,
+  "fields": {
+    "updated": "2024-04-22T20:24:47.472Z",
+    "created": "2024-04-22T20:24:47.472Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 28,
+  "fields": {
+    "updated": "2024-04-22T20:24:55.896Z",
+    "created": "2024-04-22T20:24:55.896Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 29,
+  "fields": {
+    "updated": "2024-04-22T20:25:01.015Z",
+    "created": "2024-04-22T20:25:01.015Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 30,
+  "fields": {
+    "updated": "2024-04-22T20:25:06.192Z",
+    "created": "2024-04-22T20:25:06.192Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 31,
+  "fields": {
+    "updated": "2024-04-22T20:25:11.536Z",
+    "created": "2024-04-22T20:25:11.536Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 32,
+  "fields": {
+    "updated": "2024-04-22T20:25:17.201Z",
+    "created": "2024-04-22T20:25:17.201Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 33,
+  "fields": {
+    "updated": "2024-04-22T20:25:22.912Z",
+    "created": "2024-04-22T20:25:22.912Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 34,
+  "fields": {
+    "updated": "2024-04-22T20:25:30.927Z",
+    "created": "2024-04-22T20:25:30.927Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 35,
+  "fields": {
+    "updated": "2024-04-22T20:25:36.494Z",
+    "created": "2024-04-22T20:25:36.494Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 36,
+  "fields": {
+    "updated": "2024-04-22T20:25:45.168Z",
+    "created": "2024-04-22T20:25:45.168Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 37,
+  "fields": {
+    "updated": "2024-04-22T20:47:43.387Z",
+    "created": "2024-04-22T20:47:43.387Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 38,
+  "fields": {
+    "updated": "2024-04-22T20:47:56.289Z",
+    "created": "2024-04-22T20:47:56.289Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 39,
+  "fields": {
+    "updated": "2024-04-22T20:48:36.497Z",
+    "created": "2024-04-22T20:48:36.497Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 40,
+  "fields": {
+    "updated": "2024-04-22T20:48:48.128Z",
+    "created": "2024-04-22T20:48:48.128Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 41,
+  "fields": {
+    "updated": "2024-04-23T13:29:05.640Z",
+    "created": "2024-04-23T13:29:05.640Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 42,
+  "fields": {
+    "updated": "2024-04-23T13:33:49.037Z",
+    "created": "2024-04-23T13:33:49.037Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 43,
+  "fields": {
+    "updated": "2024-04-23T13:37:48.609Z",
+    "created": "2024-04-23T13:37:48.609Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 44,
+  "fields": {
+    "updated": "2024-04-23T13:39:17.509Z",
+    "created": "2024-04-23T13:39:17.509Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 45,
+  "fields": {
+    "updated": "2024-04-23T13:42:21.440Z",
+    "created": "2024-04-23T13:42:21.440Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 46,
+  "fields": {
+    "updated": "2024-04-23T13:44:56.862Z",
+    "created": "2024-04-23T13:44:56.862Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 47,
+  "fields": {
+    "updated": "2024-04-23T13:58:21.800Z",
+    "created": "2024-04-23T13:58:21.800Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 48,
+  "fields": {
+    "updated": "2024-04-23T14:05:53.324Z",
+    "created": "2024-04-23T14:05:53.324Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 49,
+  "fields": {
+    "updated": "2024-04-23T14:08:49.824Z",
+    "created": "2024-04-23T14:08:49.824Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 50,
+  "fields": {
+    "updated": "2024-04-23T14:10:54.508Z",
+    "created": "2024-04-23T14:10:54.508Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 51,
+  "fields": {
+    "updated": "2024-04-23T14:47:37.870Z",
+    "created": "2024-04-23T14:47:37.870Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 52,
+  "fields": {
+    "updated": "2024-04-23T15:01:21.805Z",
+    "created": "2024-04-23T15:01:21.805Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 53,
+  "fields": {
+    "updated": "2024-04-23T15:02:13.206Z",
+    "created": "2024-04-23T15:02:13.206Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 54,
+  "fields": {
+    "updated": "2024-04-23T15:51:27.718Z",
+    "created": "2024-04-23T15:21:18.934Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 55,
+  "fields": {
+    "updated": "2024-04-23T15:23:04.102Z",
+    "created": "2024-04-23T15:23:04.102Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 56,
+  "fields": {
+    "updated": "2024-04-23T15:43:24.938Z",
+    "created": "2024-04-23T15:43:24.938Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 57,
+  "fields": {
+    "updated": "2024-04-23T15:43:37.263Z",
+    "created": "2024-04-23T15:43:37.263Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 58,
+  "fields": {
+    "updated": "2024-04-23T15:43:48.647Z",
+    "created": "2024-04-23T15:43:48.647Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 59,
+  "fields": {
+    "updated": "2024-04-23T15:44:30.126Z",
+    "created": "2024-04-23T15:44:30.126Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 60,
+  "fields": {
+    "updated": "2024-04-23T15:47:40.938Z",
+    "created": "2024-04-23T15:47:40.938Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 61,
+  "fields": {
+    "updated": "2024-04-23T16:31:42.736Z",
+    "created": "2024-04-23T15:47:54.012Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 62,
+  "fields": {
+    "updated": "2024-04-23T16:54:48.852Z",
+    "created": "2024-04-23T15:50:52.087Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 63,
+  "fields": {
+    "updated": "2024-04-23T15:56:34.588Z",
+    "created": "2024-04-23T15:56:34.588Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 64,
+  "fields": {
+    "updated": "2024-04-23T15:56:40.834Z",
+    "created": "2024-04-23T15:56:40.834Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 65,
+  "fields": {
+    "updated": "2024-04-23T16:03:41.690Z",
+    "created": "2024-04-23T16:00:23.236Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 66,
+  "fields": {
+    "updated": "2024-04-23T16:05:07.404Z",
+    "created": "2024-04-23T16:05:07.404Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 67,
+  "fields": {
+    "updated": "2024-04-23T16:12:54.411Z",
+    "created": "2024-04-23T16:12:54.411Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 68,
+  "fields": {
+    "updated": "2024-04-23T16:17:32.632Z",
+    "created": "2024-04-23T16:17:32.632Z"
+  }
+},
+{
+  "model": "atiflow.atiflowmodel",
+  "pk": 69,
+  "fields": {
+    "updated": "2024-04-23T16:25:34.821Z",
+    "created": "2024-04-23T16:25:34.821Z"
+  }
+},
+{
+  "model": "atiflow.comentario",
+  "pk": 52,
+  "fields": {
+    "texto": "Se consulta con Sergio y Hernán, pero no tienen una propia, si no que usan la consola manualmente para el monitoreo.\r\n\r\nMis Propuestas:\r\nhttps://www.datadoghq.com/\r\n\r\nhttps://sentry.io/\r\n\r\nSergio me indica que él puede realizar este monitoreo, si le enviamos qué es lo que queremos monitorizar (logs, uptime, etc), está a la espera de nuestro requerimiento.\r\n\r\nSe debe investigar:\r\nELK Stack: Elasticsearch, Kibana, Beats y Logstash | Elastic\r\n\r\nLa idea es llegar a logear con salida json.",
+    "user": 1
+  }
+},
+{
+  "model": "atiflow.comentario",
+  "pk": 55,
+  "fields": {
+    "texto": "Se consulta con Sergio y Hernán, pero no tienen una propia, si no que usan la consola manualmente para el monitoreo.\r\n\r\nMis Propuestas:\r\nhttps://www.datadoghq.com/\r\n\r\nhttps://sentry.io/\r\n\r\nSergio me indica que él puede realizar este monitoreo, si le enviamos qué es lo que queremos monitorizar (logs, uptime, etc), está a la espera de nuestro requerimiento.\r\n\r\nSe debe investigar:\r\nELK Stack: Elasticsearch, Kibana, Beats y Logstash | Elastic\r\n\r\nLa idea es llegar a logear con salida json.",
+    "user": 1
+  }
+},
+{
+  "model": "atiflow.comentario",
+  "pk": 56,
+  "fields": {
+    "texto": "Se consulta el repo:DCC-FCFM-UCHILE/coevaluaciones (github.com)",
+    "user": 1
+  }
+},
+{
+  "model": "atiflow.comentario",
+  "pk": 57,
+  "fields": {
+    "texto": "Cargado y funcionando en local.",
+    "user": 1
+  }
+},
+{
+  "model": "atiflow.comentario",
+  "pk": 58,
+  "fields": {
+    "texto": "a la espera de seguir investigando.",
+    "user": 1
+  }
+},
+{
+  "model": "atiflow.comentario",
+  "pk": 60,
+  "fields": {
+    "texto": "Cristian dice que lo esperemos",
+    "user": 1
+  }
+},
+{
+  "model": "atiflow.comentario",
+  "pk": 62,
+  "fields": {
+    "texto": "confirmaremos estos detalles con Paulette.\r\nhttps://dcc.uchile.cl/postgrado/mti/\r\nhttps://dcc.uchile.cl/postgrado/magister/\r\ncomparar estos dos sistemas\r\nDiscutir con Sandra sobre el mejor formato de los existentes.\r\nChristian Bridevaux, definirá dónde y cuando.",
+    "user": 1
+  }
+},
+{
+  "model": "atiflow.tecnologia",
+  "pk": 37,
+  "fields": {
+    "nombre": "PHP",
+    "tipo": "LE",
+    "descripcion": "",
+    "version": null
+  }
+},
+{
+  "model": "atiflow.tecnologia",
+  "pk": 38,
+  "fields": {
+    "nombre": "JAVASCRIPT",
+    "tipo": "LE",
+    "descripcion": "",
+    "version": null
+  }
+},
+{
+  "model": "atiflow.tecnologia",
+  "pk": 39,
+  "fields": {
+    "nombre": "CODEIGNITER",
+    "tipo": "FR",
+    "descripcion": "",
+    "version": null
+  }
+},
+{
+  "model": "atiflow.tecnologia",
+  "pk": 40,
+  "fields": {
+    "nombre": "MARIADB",
+    "tipo": "BD",
+    "descripcion": "",
+    "version": null
+  }
+},
+{
+  "model": "atiflow.tecnologia",
+  "pk": 41,
+  "fields": {
+    "nombre": "Python",
+    "tipo": "LE",
+    "descripcion": "Python en alguna versión no especificada.",
+    "version": null
+  }
+},
+{
+  "model": "atiflow.tecnologia",
+  "pk": 42,
+  "fields": {
+    "nombre": "RAKET",
+    "tipo": "LE",
+    "descripcion": "Racket es un lenguaje de programación multiparadigma que se originó como una variante del lenguaje Scheme, que a su vez es un dialecto de Lisp. Es conocido por su potente sistema de macros y su excepcional soporte para la programación funcional, pero también soporta otros paradigmas como la programación imperativa y la programación orientada a objetos.\r\n\r\nRacket es particularmente adecuado para comenzar a programar debido a su sencillez y a la riqueza de su ecosistema pedagógico, que incluye un ambiente de desarrollo integrado (IDE) amigable y una amplia variedad de paquetes y bibliotecas. Además, se utiliza ampliamente en la enseñanza de la informática y el diseño de lenguajes de programación, permitiendo a los usuarios definir sus propios sub-lenguajes de dominio específico.\r\n\r\nUno de los aspectos más distintivos de Racket es su enfoque en la creación de nuevos lenguajes dentro del propio lenguaje. Proporciona herramientas que facilitan la creación, manipulación y extensión de lenguajes de programación, lo que permite a los programadores escribir código en el lenguaje que mejor se adapte a su problema.",
+    "version": null
+  }
+},
+{
+  "model": "atiflow.tecnologia",
+  "pk": 45,
+  "fields": {
+    "nombre": "JAVA",
+    "tipo": "OT",
+    "descripcion": "",
+    "version": null
+  }
+},
+{
+  "model": "atiflow.tecnologia",
+  "pk": 46,
+  "fields": {
+    "nombre": "DokuWiki",
+    "tipo": "OT",
+    "descripcion": "DokuWiki es un software de gestión de contenidos para la creación de documentación, que opera sin base de datos usando archivos de texto plano para el almacenamiento. Es fácil de usar, soporta control de versiones, extensible con plugins, y permite control de acceso detallado. Es ideal para equipos y organizaciones que buscan un sistema simple y eficaz para colaborar en proyectos y documentación.",
+    "version": null
+  }
+},
+{
+  "model": "atiflow.tecnologia",
+  "pk": 48,
+  "fields": {
+    "nombre": "DJANGO",
+    "tipo": "FR",
+    "descripcion": "",
+    "version": "5.x"
+  }
+},
+{
+  "model": "atiflow.tecnologia",
+  "pk": 50,
+  "fields": {
+    "nombre": "MYSQL",
+    "tipo": "BD",
+    "descripcion": "",
+    "version": null
+  }
+},
+{
+  "model": "atiflow.tecnologia",
+  "pk": 51,
+  "fields": {
+    "nombre": "POSTGRES",
+    "tipo": "BD",
+    "descripcion": "",
+    "version": null
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 1,
+  "fields": {
+    "nombre": "U-dashboard",
+    "descripcion": "Almacenamiento de métricas de negocio o productividad para las áreas y unidades del departamento, agregación, modificación y visualización de métricas, asignación de permisos en diferentes roles para la edición de los datos.",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "UP",
+    "tipo_soporte": "SI",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "dependencias": [
+      44
+    ]
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 2,
+  "fields": {
+    "nombre": "HAPE",
+    "descripcion": "Soporte completo para el proceso de titulación (E y F).\r\n\r\nNotas\r\nMemoria Sebastián Aguilera / Cecilia B. 2022.1F, hay que recopilar más info al respecto.\r\nactualmente, está en test, pero no se tiene la URL",
+    "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/hape_dcc",
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "UC",
+    "tipo_soporte": "AT",
+    "managed": true,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 3,
+  "fields": {
+    "nombre": "Recordatorio de Eventos",
+    "descripcion": "Crear eventos y enviar recordatorios por correo.\r\nDesarrollado en curso de Ingeniería de Software 2",
+    "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/recordatorio_eventos",
+    "url_test": "https://test.dcc.uchile.cl/recordatorio-eventos",
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "UC",
+    "tipo_soporte": "DE",
+    "managed": true,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 4,
+  "fields": {
+    "nombre": "Conformación de equipos",
+    "descripcion": "Permite la confección de equipos para los cursos de Ingeniería de Software 1 y 2.",
+    "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/conformacion-equipos",
+    "url_test": null,
+    "url_produccion": "https://equipos.dcc.uchile.cl",
+    "url_documentacion": null,
+    "tipo_autenticacion": "PR",
+    "tipo_soporte": "DE",
+    "managed": true,
+    "tiene_api": false,
+    "tecnologias": [
+      41,
+      48,
+      51
+    ],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 5,
+  "fields": {
+    "nombre": "Mainreq",
+    "descripcion": "Gestión de proyectos de desarrollo de software, utilizado en el curso de Ingeniería de Software 2",
+    "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/mainreq",
+    "url_test": null,
+    "url_produccion": "https://mainreq.dcc.uchile.cl/",
+    "url_documentacion": null,
+    "tipo_autenticacion": "PR",
+    "tipo_soporte": "SI",
+    "managed": true,
+    "tiene_api": false,
+    "tecnologias": [
+      41,
+      48,
+      51
+    ],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 6,
+  "fields": {
+    "nombre": "Sistema de Biblioteca",
+    "descripcion": "Solicitud de libros para la biblioteca del departamento.",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": "http://bib.dcc.uchile.cl/",
+    "url_documentacion": null,
+    "tipo_autenticacion": "PR",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [
+      42
+    ],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 7,
+  "fields": {
+    "nombre": "Coevaluaciones",
+    "descripcion": "Realización de coevaluaciones entre estudiantes de distintos cursos de pregrado.",
+    "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/coevaluaciones",
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "PR",
+    "tipo_soporte": "AT",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [
+      41
+    ],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 8,
+  "fields": {
+    "nombre": "U-Fichas",
+    "descripcion": "Genera fichas académicas para cada uno de los docentes integrantes de los programas de postgrado para su acreditación, cada ficha incluye: información personal, tesis dirigidas (internas y externas), publicaciones, proyectos y asesorías en las que haya participado para distintos periodos.",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "PR",
+    "tipo_soporte": "SI",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [
+      41
+    ],
+    "dependencias": [
+      13,
+      17,
+      43
+    ]
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 9,
+  "fields": {
+    "nombre": "U-vinculación",
+    "descripcion": "Captura y visualiza información sobre egresados del departamento\r\n\r\nreemplazado por alumni ;)",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "PR",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [
+      41
+    ],
+    "dependencias": [
+      44
+    ]
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 10,
+  "fields": {
+    "nombre": "Inscripción MTI | SISTEMA DE POSTULACIONES",
+    "descripcion": "Soporta el proceso de postulación al MTI, permite hacer seguimiento a las postulaciones\r\n\r\nFue dado de baja tras vulnerabilidades reportadas por OSI Uchile.\r\n\r\nhttps://github.com/DCC-FCFM-UCHILE/postulaciones_frontend\r\nhttps://github.com/DCC-FCFM-UCHILE/postulaciones_backend",
+    "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/postulaciones_backend",
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "PR",
+    "tipo_soporte": "SI",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [
+      45
+    ],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 11,
+  "fields": {
+    "nombre": "Wiki DCC",
+    "descripcion": "Muestra información de temas propios del departamento en forma de Wikis: AJC, ALICE, CC3301, Taller Mindstorms (Lego).",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": "https://wiki.dcc.uchile.cl",
+    "url_documentacion": null,
+    "tipo_autenticacion": "PR",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [
+      46
+    ],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 12,
+  "fields": {
+    "nombre": "ec-calendarios",
+    "descripcion": "Calendarización de clases de los programas del PEC, exportar calendarios en PDF.",
+    "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/ec-calendarios",
+    "url_test": "https://test.dcc.uchile.cl/educacion-continua/calendarios",
+    "url_produccion": "https://apps.dcc.uchile.cl/educacion-continua/calendarios",
+    "url_documentacion": null,
+    "tipo_autenticacion": "UC",
+    "tipo_soporte": "AT",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 13,
+  "fields": {
+    "nombre": "U-Proyectos",
+    "descripcion": "Registro de proyectos asociados a los académicos del departamento, información financiera y estadística de proyectos. Registro de investigadores internos y externos que participaron en proyectos conjuntos con académicos del departamento, registro de académicos, visitantes y postdoctorales temporales realizando estadías de trabajo.\r\n\r\n-----\r\n- Existe una nueva versión, Dockerizada, actualizada a PHP 8, con extensiones y APIs desarrollada por Joaquín Pérez, disponible en [uproyectos-test.dcc.uchile.cl](http://uproyectos-test.dcc.uchile.cl/) Aún no defiende.\r\nOtro memorista (E2023.1) está haciendo reingeniería de este sistema.",
+    "url_repositorio": null,
+    "url_test": "http://uproyectos-test.dcc.uchile.cl/",
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "SI",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [
+      37,
+      38
+    ],
+    "dependencias": [
+      20
+    ]
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 14,
+  "fields": {
+    "nombre": "U-Productividades",
+    "descripcion": "Ingreso, modificación y validación de productividades y coordinaciones del personal del departamento, informes de contabilidad y estadísticas del proceso de pago de productividades, administración de respaldo de datos de productividades, envío de información (mails) de productividades, validaciones pendientes.\r\n\r\nAUTH-SAU",
+    "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/uproductividades",
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "OT",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": [
+      20
+    ]
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 15,
+  "fields": {
+    "nombre": "com-sitio-web",
+    "descripcion": "Mostrar información del departamento como noticias, académicos, equipos, programas de pregrado, postgrado y educación continua. Además, posee los sistemas de admin y TV incluidos.\r\n\r\nEl sitio web antiguo fue deprecado en marzo de 2023.",
+    "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/com-sitio-web",
+    "url_test": "https://web.dcc.uchile.cl/",
+    "url_produccion": "https://dcc.uchile.cl/",
+    "url_documentacion": null,
+    "tipo_autenticacion": "UC",
+    "tipo_soporte": "AT",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [
+      41,
+      48
+    ],
+    "dependencias": [
+      28,
+      44,
+      47
+    ]
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 16,
+  "fields": {
+    "nombre": "U-Fondos",
+    "descripcion": "Gestión de asignación de fondos",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": "https://ufondos.dcc.uchile.cl/",
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 17,
+  "fields": {
+    "nombre": "U-Papers",
+    "descripcion": "Repositorio de publicaciones científicas de los académicos del departamento, permite llevar a cabo búsquedas por: título, fecha, tipo de publicación, (artículo de journal, conferencia, libro), autor, palabras clave, genera estadísticas de: visitantes, descargas de las publicaciones, publicaciones por autor.",
+    "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/u-papers",
+    "url_test": null,
+    "url_produccion": "https://upapers.dcc.uchile.cl",
+    "url_documentacion": null,
+    "tipo_autenticacion": "PR",
+    "tipo_soporte": "SI",
+    "managed": false,
+    "tiene_api": true,
+    "tecnologias": [
+      37,
+      39,
+      50
+    ],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 18,
+  "fields": {
+    "nombre": "SAR: Sistema de Administración de Recursos",
+    "descripcion": "Permite la gestión/asignación de salas de reuniones y oficinas del departamento.\r\n\r\n\r\nExiste una nueva versión, Dockerizada, actualizada a Django 4, con extensiones y APIs desarrollada por Sebastián Zapata pendiente de testing. Aún no defiende. (comprobar esta información)\r\nEste sistema permite administrar los espacios físicos del DCC. Fue intervenido en 2022 por el memorista Sebastián Zapata, con el objetivo de alinear el SAR con las necesidades actuales del DCC. El sistema se encuentra en constante desarrollo.",
+    "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/system-sar",
+    "url_test": null,
+    "url_produccion": "https://sar.dcc.uchile.cl/auth/login/",
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "SI",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": [
+      20
+    ]
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 19,
+  "fields": {
+    "nombre": "Intranet",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 20,
+  "fields": {
+    "nombre": "SAU",
+    "descripcion": "Manejo de credenciales de acceso y permisos de acuerdo a roles para aplicaciones.",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "SI",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 21,
+  "fields": {
+    "nombre": "ops-pre-tit-introduccion",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 22,
+  "fields": {
+    "nombre": "api-personas",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 23,
+  "fields": {
+    "nombre": "pad-importer-mufasa",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 24,
+  "fields": {
+    "nombre": "ext-alumni",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 25,
+  "fields": {
+    "nombre": "Conformación Equipos Proyecto de Software",
+    "descripcion": "Permite la confección de equipos para los cursos de Ingeniería de Software 1 y 2.",
+    "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/conformacion-equipos",
+    "url_test": null,
+    "url_produccion": "https://equipos.dcc.uchile.cl",
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "SI",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 26,
+  "fields": {
+    "nombre": "Wiki de Titulación",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 27,
+  "fields": {
+    "nombre": "PEC ENCUESTAS",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 28,
+  "fields": {
+    "nombre": "PORTAL",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 29,
+  "fields": {
+    "nombre": "U-calendar",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 30,
+  "fields": {
+    "nombre": "Control de Accesos",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 31,
+  "fields": {
+    "nombre": "Calendario Académico FCFM",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 32,
+  "fields": {
+    "nombre": "Gestor de Datos Maestros",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 33,
+  "fields": {
+    "nombre": "Integrador Sistemas",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 34,
+  "fields": {
+    "nombre": "LightHouse",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 35,
+  "fields": {
+    "nombre": "Portal de Proyecto de Software",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 36,
+  "fields": {
+    "nombre": "WareHouse",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 43,
+  "fields": {
+    "nombre": "PGScopio",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 44,
+  "fields": {
+    "nombre": "API-MUFASA-UCAMPUS",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 47,
+  "fields": {
+    "nombre": "SANE",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 49,
+  "fields": {
+    "nombre": "com-sitio-web-admin",
+    "descripcion": "Administración del sitio web de comunicaciones.",
+    "url_repositorio": "https://github.com/DCC-FCFM-UCHILE/com-sitio-web",
+    "url_test": "https://test.dcc.uchile.cl/comunicaciones/sitio-web-admin",
+    "url_produccion": "https://apps.dcc.uchile.cl/comunicaciones/sitio-web-admin",
+    "url_documentacion": null,
+    "tipo_autenticacion": "UC",
+    "tipo_soporte": "AT",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [
+      41,
+      48
+    ],
+    "dependencias": [
+      28,
+      44,
+      47
+    ]
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 63,
+  "fields": {
+    "nombre": "ops-pre-tit-introduccion",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.sistema",
+  "pk": 67,
+  "fields": {
+    "nombre": "portal-pws",
+    "descripcion": "",
+    "url_repositorio": null,
+    "url_test": null,
+    "url_produccion": null,
+    "url_documentacion": null,
+    "tipo_autenticacion": "SA",
+    "tipo_soporte": "DE",
+    "managed": false,
+    "tiene_api": false,
+    "tecnologias": [],
+    "dependencias": []
+  }
+},
+{
+  "model": "atiflow.tarea",
+  "pk": 54,
+  "fields": {
+    "titulo": "Monitoreo Contenedores",
+    "descripcion": "Búsqueda de una herramienta para la monitorización de los contenedores.",
+    "estado": "ES",
+    "fecha_solicitud": "2024-03-11",
+    "comentarios": [
+      52
+    ],
+    "sistemas_afectados": []
+  }
+},
+{
+  "model": "atiflow.tarea",
+  "pk": 59,
+  "fields": {
+    "titulo": "Análisis de coevaluaciones",
+    "descripcion": "Conocer el funcionamiento del sistema, para estar preparado ante un issue inesperado",
+    "estado": "ES",
+    "fecha_solicitud": "2024-03-11",
+    "comentarios": [
+      56,
+      57,
+      58
+    ],
+    "sistemas_afectados": [
+      7
+    ]
+  }
+},
+{
+  "model": "atiflow.tarea",
+  "pk": 61,
+  "fields": {
+    "titulo": "Agregar cursos MTI",
+    "descripcion": "Agregar Cursos obligatorios en MTI\r\n\r\nEn el MTI, solo se encuentran los cursos electivos. Siguiendo el MSC, debemos coordinar con Sandra para determinar dónde ubicamos los cursos obligatorios en el MTI. Además, evaluaremos si el enfoque utilizado en el MSC es aplicable al MTI. Finalmente\r\n\r\n---\r\ncurso                                                         profesor            código         créditos\r\nSeminario de proyectos de TI I     \r\nSergio Ochoa\r\nBenjamín Bustos\r\nCC79E\r\n6\r\n\r\nSeminario de proyectos de TI II\r\nSergio Ochoa\r\nBenjamín Bustos\r\nCC79F\r\n6\r\n\r\nProyecto de Grado I\r\nSergio Ochoa\r\nBenjamín Bustos\r\nCC79G\r\n21\r\n\r\nProyecto de Grado II\r\nSergio Ochoa\r\nBenjamín Bustos\r\nCC79H\r\n21",
+    "estado": "ES",
+    "fecha_solicitud": "2024-03-20",
+    "comentarios": [
+      60,
+      62
+    ],
+    "sistemas_afectados": [
+      15,
+      49
+    ]
+  }
+},
+{
+  "model": "atiflow.tarea",
+  "pk": 64,
+  "fields": {
+    "titulo": "Error en titulación con M-Toro",
+    "descripcion": "Matías Toro, omento de ir a Mis Temas, mostrar todos, no se va al inicio y no filtra.",
+    "estado": "NI",
+    "fecha_solicitud": "2024-03-19",
+    "comentarios": [],
+    "sistemas_afectados": [
+      63
+    ]
+  }
+},
+{
+  "model": "atiflow.tarea",
+  "pk": 65,
+  "fields": {
+    "titulo": "No cargan eventos en la web",
+    "descripcion": "Se ha identificado un problema en la página web cuando no hay eventos programados, lo que provoca errores. Aunque pfilla@dcc.uchile.cl indica que se ha añadido un evento, es necesario realizar una verificación para determinar la causa exacta del fallo. Una solución temporal es asegurarse de tener al menos un evento publicado anualmente. Aunque el error inmediato se ha resuelto, el problema aún requiere atención para una solución definitiva.\r\n\r\nhttps://dcc.uchile.cl/difusion/eventos/",
+    "estado": "NI",
+    "fecha_solicitud": "2024-03-21",
+    "comentarios": [],
+    "sistemas_afectados": [
+      15,
+      49
+    ]
+  }
+},
+{
+  "model": "atiflow.tarea",
+  "pk": 66,
+  "fields": {
+    "titulo": "Mejora del calendario PEC",
+    "descripcion": "Paulette propone:\r\n\r\nEn el documento PDF de los calendarios, los textos no son copiables. Además, en los cursos gestionados por el editor donde intervienen dos o más profesores, falta una separación entre ellos.",
+    "estado": "NI",
+    "fecha_solicitud": "2024-03-22",
+    "comentarios": [],
+    "sistemas_afectados": [
+      12
+    ]
+  }
+},
+{
+  "model": "atiflow.tarea",
+  "pk": 68,
+  "fields": {
+    "titulo": "Memoria Matías",
+    "descripcion": "Revisión de trabajo de memoria de Matías. \r\n\r\nEl estudiante no podrá resolver los problemas pendientes, por lo que se programará una reunión para sincronizar el estado actual y discutir los pasos a seguir.\r\n\r\nEl estudiante se encargará de resolver problemas relacionados con la calidad del código. Existen discrepancias en cuanto a la definición del alcance de su tarea y si incluye la responsabilidad de dejar el sistema funcionando en producción, lo cual forma parte de la última etapa mencionada.\r\n\r\nSe ha enviado una respuesta al correo; el alcance de la responsabilidad del alumno, aún está por \r\ndeterminarse. daniel.perovich@gmail.com se pondrá en contacto con cecilia@dcc.uchile.cl para discutir y aclarar los detalles\r\n\r\nActualmente, el proyecto está en fase de pruebas; los únicos cambios implementados han sido los realizados por el estudiante.\r\nEl proyecto superó la etapa de pruebas por parte del alumno, retocando algunos estilos solamente, ahora está a la espera del visto bueno de Cecilia. Ella ya fue notificada por correo.\r\n\r\nSe homologan los datos en producción con testing: https://portalpsw.test.dcc.uchile.cl/\r\n\r\nSe informa a Cecilia y estamos a la espera de su visto bueno para pasar a producción.",
+    "estado": "TE",
+    "fecha_solicitud": "2024-03-11",
+    "comentarios": [],
+    "sistemas_afectados": [
+      67
+    ]
+  }
+},
+{
+  "model": "atiflow.tarea",
+  "pk": 69,
+  "fields": {
+    "titulo": "Usuarios en coevaluaciones",
+    "descripcion": "@benjamin farìas(fariasbenj@gmail.com), solicita:\r\n\r\nHola,\r\n\r\nLe escribo de parte del equipo docente del curso CC5205 Minería de datos, secciones 1 y 2. Nos gustaría solicitar un usuario y curso en el sistema de coevaluaciones.\r\n\r\nSaludos y gracias de antemano.\r\n\r\nno se sabe como proceder, se consulta a Juan Arriagada. \r\n\r\nJuan Arriagada solicita información y lo resuelve.",
+    "estado": "TE",
+    "fecha_solicitud": "2024-03-11",
+    "comentarios": [],
+    "sistemas_afectados": []
+  }
+}
+]

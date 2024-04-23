@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+atiflow/__pycache__/
 *.py[cod]
 
 # Django stuff:

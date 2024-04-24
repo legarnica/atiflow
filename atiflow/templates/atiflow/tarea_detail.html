@@ -1,8 +1,73 @@
 {% extends "admin/base_site.html" %}
 
+{% block extrahead %}
+<style>
+    .detail-section {
+        margin-bottom: 20px;
+        background-color: #f9f9f9;
+        padding: 15px;
+        border-radius: 8px;
+    }
+    .detail-section h2 {
+        color: #333;
+    }
+    ul.detail-list {
+        padding-left: 20px;
+    }
+    ul.detail-list li {
+        line-height: 1.6;
+    }
+    .no-data {
+        color: #999;
+        font-style: italic;
+    }
+</style>
+{% endblock %}
+
 {% block content %}
 <div class="module">
-    <h1>Detalle de Tarea</h1>
+    <h1>Detalle de Tarea: {{ tarea.titulo }}</h1>
+    <div class="detail-section">
+        <p><strong>Descripción:</strong> {{ tarea.descripcion }}</p>
+        <p><strong>Estado:</strong> {{ tarea.get_estado_display }}</p>
+        <p><strong>Fecha de solicitud:</strong> {{ tarea.fecha_solicitud|date:"Y-m-d" }}</p>
+        <p><strong>Última actualización:</strong> {{ tarea.updated|date:"Y-m-d H:i" }}</p>
+    </div>
 
+    <div class="detail-section">
+        <h2>Comentarios</h2>
+        {% if tarea.comentarios.all %}
+        <ul class="detail-list">
+            {% for comentario in tarea.comentarios.all %}
+                <li><strong>{{ comentario.user.username }}</strong> dice: {{ comentario.texto }}</li>
+            {% endfor %}
+        </ul>
+        {% else %}
+        <p class="no-data">No hay comentarios.</p>
+        {% endif %}
+    </div>
+
+    <div class="detail-section">
+        <h2>Sistemas afectados</h2>
+        {% if tarea.sistemas_afectados.all %}
+        <ul class="detail-list">
+            {% for sistema in tarea.sistemas_afectados.all %}
+                <li>
+                    <strong>{{ sistema.nombre }}</strong> - {{ sistema.descripcion|default:"Sin descripción" }}<br>
+                    <strong>Tecnologías:</strong>
+                    {% if sistema.tecnologias.all %}
+                        {% for tecnologia in sistema.tecnologias.all %}
+                            {{ tecnologia.nombre }} ({{ tecnologia.get_tipo_display }}),
+                        {% endfor %}
+                    {% else %}
+                        Sin tecnologías registradas,
+                    {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+        {% else %}
+        <p class="no-data">No hay sistemas afectados registrados.</p>
+        {% endif %}
+    </div>
 </div>
 {% endblock %}
